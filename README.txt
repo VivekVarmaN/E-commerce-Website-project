@@ -1,13 +1,9 @@
-**************Internshala VTC Web Development Project Solution*************************************************
-
-DESCRIPTION: This is the solution to the e-commerce website 
-
-Extract the files from project_solution.zip.
+﻿**************Internshala VTC Web Development Project Solution*************************************************
 
 _____________________________________________Folder Structure__________________________________________________
 	
 	
-	project_solution/
+	project/
 	├── css/ (contains all the css files)
 	│    ├── bootstrap.css
 	│    ├── bootstrap.min.css
@@ -49,10 +45,6 @@ ____________________________________________SETUP_______________________________
 3.) Import the lifestylestore.sql file present in the zip folder.
 4.) Open the htdocs folder in the xampp folder. Copy paste the folder lifestylestore.
 5.) Open the browser (chrome), type localhost/lifestylestore and you should see the index page of the website.
-
-*******************************************************************************************************************************************
-CONTACT: vtc-support@internshala.com
-WEBSITE: www.vtc.internshala.com
 
 *******************************************************************************************************************************************
 LICENSE AND COPYRIGHT: All the images used for this project are representational images.
